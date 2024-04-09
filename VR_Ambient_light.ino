@@ -1,4 +1,4 @@
-#include "FastLED.h"
+#include <FastLED.h>
 
 #define ANALOG_MODE_AVERAGE  0
 #define ANALOG_MODE_LAST_LED 1
